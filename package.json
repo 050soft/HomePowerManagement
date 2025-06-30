@@ -1,7 +1,7 @@
 {
   "name": "homemanagement",
   "version": "0.0.0",
-  "description": "Integrates with homewizard meters to monitor power usage.",
+  "description": "Integrate with homewizard meters to monitor power usage.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
