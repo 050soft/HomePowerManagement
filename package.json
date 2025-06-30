@@ -1,0 +1,27 @@
+{
+  "name": "homemanagement",
+  "version": "0.0.0",
+  "description": "Integrates with homewizard meters to monitor power usage.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/050soft/HomePowerManagement.git"
+  },
+  "keywords": [
+    "home",
+    "power",
+    "management"
+  ],
+  "author": "Not_H3",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/050soft/HomePowerManagement/issues"
+  },
+  "homepage": "https://github.com/050soft/HomePowerManagement#readme",
+  "dependencies": {
+    "dotenv": "^17.0.0"
+  }
+}
